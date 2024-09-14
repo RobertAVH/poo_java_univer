@@ -1,4 +1,4 @@
-package ventas;
+package sistemaVentas;
 
 public class Orden {
     private final int idOrden;
